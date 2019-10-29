@@ -3,7 +3,7 @@
 A small decorator helpers wich allow you to mark & check method parameters
 
 ```typescript
-import { handleParams, param } from 'parameterDecorator';
+import { handleParams, param } from 'parameter-decorator-typescript';
 
 const handlers: { [key: string]: (parameter: any) => void } = {};
 handlers.notNull = (parameter: any) => {
