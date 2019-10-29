@@ -1,0 +1,24 @@
+{
+  "name": "parameter-decorator-typescript",
+  "version": "0.0.1",
+  "description": "parameter decorator for typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniyp/parameter-decorator-typescript.git"
+  },
+  "author": "Evgeniy Petukhov <evgeniy.petukhov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evgeniyp/parameter-decorator-typescript/issues"
+  },
+  "homepage": "https://github.com/evgeniyp/parameter-decorator-typescript#readme",
+  "dependencies": {
+    "@types/node": "^12.11.7",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^3.6.4"
+  }
+}
